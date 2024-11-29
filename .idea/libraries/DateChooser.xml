@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="DateChooser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jgoodies-common-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jgoodies-looks-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqljdbc4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
